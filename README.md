@@ -1,2 +1,2 @@
 # Music For You
- Spotify Songs Recommendation System
+ Spotify Songs Recommender App
