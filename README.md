@@ -13,10 +13,14 @@
 ## Check out the app here
 https://music-for-you.streamlit.app/
 
+## Check out the demo video 
+https://youtu.be/5OmFSvSPjZA
+
 ## Detailed blog post
+https://hahoangpro.wixsite.com/datascience/post/song-recommendation-app-using-streamlit-and-k-nearest-neighbors
 
 ## Additional projects
-
+https://hahoangpro.wixsite.com/datascience/blog
 
 
 
