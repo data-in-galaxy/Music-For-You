@@ -6,13 +6,12 @@
 ## Code and Resources Used
 **Python Version:** 3.11 <br>
 **Packages:** pandas, numpy, sklearn, streamlit <br>
-**Data Source:** https://www.kaggle.com/datasets/saurabhshahane/spotgen-music-dataset
+**Data Source:** https://www.kaggle.com/datasets/saurabhshahane/spotgen-music-dataset <br>
 **Web Framework Requirements:** ``pip install -r requirements.txt`` <br>
 **Streamlit Documentation**: https://docs.streamlit.io/ <br>
 
 ## Check out the app here
 https://music-for-you.streamlit.app/
-
 
 ## Detailed blog post
 
