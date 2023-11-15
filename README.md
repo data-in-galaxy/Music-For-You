@@ -11,10 +11,10 @@ https://music-for-you.streamlit.app/
 ## Additional projects
 
 ## Code and Resources Used
-**Python Version:** 3.11
-**Packages:** pandas, numpy, sklearn, streamlit
-**Web Framework Requirements:** ``pip install -r requirements.txt``
-**Streamlit Documentation**: https://docs.streamlit.io/
+**Python Version:** 3.11 <br>
+**Packages:** pandas, numpy, sklearn, streamlit <br>
+**Web Framework Requirements:** ``pip install -r requirements.txt`` <br>
+**Streamlit Documentation**: https://docs.streamlit.io/ <br>
 
 
 
