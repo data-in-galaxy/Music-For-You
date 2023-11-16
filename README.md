@@ -1,6 +1,6 @@
 # Song Recommendation App: Project Overview
 - Built a song recommendation engine based on users' selection of song features (e.g. genres, acousticness, danceability, etc.)
-- Optimized K-Nearest Neighbors algorithm to recommend top songs that match user preferences
+- Optimized ``K-Nearest Neighbors`` algorithm to recommend top songs that match user preferences
 - Designed app layout and user interface using Streamlit
 
 ## Code and Resources Used
